@@ -1,3 +1,5 @@
+<img src="ChatGPT Image Apr 23, 2025, 11_29_06 AM.png" alt="Akshay Yerrawar Banner" width="100%">
+
 # 👋 Hi, I'm Akshay Yerrawar
 
 💼 Software Engineer | .NET Developer | Cloud Enthusiast  
