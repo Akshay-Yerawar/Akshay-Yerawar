@@ -1,5 +1,3 @@
-<img src="ChatGPT Image Apr 23, 2025, 11_29_06 AM.png" alt="Akshay Yerrawar Banner" width="100%">
-
 # 👋 Hi, I'm Akshay Yerrawar
 
 💼 Software Engineer | .NET Developer | Cloud Enthusiast  
@@ -29,8 +27,8 @@
 
 ### 📈 GitHub Stats
 
-![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshayYerawar&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayYerawar&layout=compact&theme=tokyonight)
+![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshay-Yerawar&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay-Yerawar&layout=compact&theme=tokyonight)
 
 ---
 
@@ -49,7 +47,7 @@
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/akshayyerawar)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/AkshayYerawar)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/Akshay-Yerawar)  
 📧 akshayyerrawar0143@gmail.com
 
 ---
