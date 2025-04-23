@@ -2,7 +2,7 @@
 
 💼 Software Engineer | .NET Developer | Cloud Enthusiast  
 📍 Pune, India  
-📧 akshayyerrawar0143@gmail.com
+📧 akshayyerrawar0143@gmail.com     
 📱 +91 8317259912
 
 ---
