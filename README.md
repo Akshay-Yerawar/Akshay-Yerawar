@@ -59,3 +59,8 @@
 ### 🧠 Fun Fact
 
 I thrive on solving real-world problems with clean code and a cup of coffee ☕. Always eager to learn and innovate.
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Akshay-Yerawar&label=Profile%20views&color=0e75b6&style=flat" alt="Akshay-Yerawar" />
+</p>
+
