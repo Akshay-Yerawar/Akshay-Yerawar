@@ -28,11 +28,11 @@
 
 ### 📈 GitHub Stats
 
-![Akshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkshayYerawar&show_icons=true&theme=tokyonight)
+![Akshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshay-Yerawar&show_icons=true&theme=tokyonight)
 
 ### 🗂️ Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayYerawar&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay-Yerawar&layout=compact&theme=tokyonight)
 
 ---
 
